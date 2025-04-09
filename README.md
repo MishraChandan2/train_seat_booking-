@@ -12,8 +12,8 @@ If a person is reserving seats, the priority will be to book them in one row.
 If seats are not available in one row then the booking should be done in such a way that the nearby seats are booked.
 User can book as many tickets as s/he wants until the coach is full.
 You don’t have to create login functionality for this application
-Tech Stack
-React js
-Node js
-Express js
-MongoD
+Tech Stack:
+React js,
+Node js,
+Express js,
+MongoD.
